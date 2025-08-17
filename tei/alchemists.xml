@@ -17,10 +17,20 @@
 <body>
 <div1>
 <head>Works Consulted</head>
-<bibl>
+<biblStruct>
+<monogr>
 <title>Alchemy: Ancient and Modern</title>
 <author>H. Stanley Redgrove</author>
-</bibl>
+<imprint>
+<publisher>
+William Rider &amp; Son, Ltd.
+</publisher>
+<date>
+1922
+</date>
+</imprint>
+</monogr>
+</biblStruct>
 </div1>
 <div1>
 <head>Biographies</head>
