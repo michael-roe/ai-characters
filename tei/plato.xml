@@ -18,6 +18,9 @@
 <div1>
 <head>Works Consulted</head>
 
+<div2>
+<head>Classical Authors</head>
+
 <listBibl>
 
 <biblStruct>
@@ -98,7 +101,111 @@
 </series>
 </biblStruct>
 
+<biblStruct>
+<monogr>
+<author>Proclus</author>
+<title>The commentaries of Proclus on the Timaeus of Plato</title>
+<editor role="Translator">Thomas Taylor</editor>
+<imprint>
+<publisher>Thomas Taylor</publisher>
+<date>1820</date>
+</imprint>
+</monogr>
+</biblStruct>
+
 </listBibl>
+</div2>
+
+<div2>
+<listBibl>
+<head>Medieval Authors</head>
+
+<biblStruct>
+<monogr>
+<author>Bernard of Clairvaux</author>
+<title>Cantica Canticorum: Eighty-six Sermons on the Song of Solomon</title>
+<imprint>
+<publisher>Elliot Stock</publisher>
+<date>1895</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>Hadewijch</author>
+<title>Werken van Zuster Hadewijch</title>
+<imprint>
+<publisher>C. Annoot-Braeckmann</publisher>
+<date>1875</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+</listBibl>
+</div2>
+
+<div2>
+<head>Renaissance Authors</head>
+
+<listBibl>
+
+<biblStruct>
+<monogr>
+<author>Mirandola, Giovanni Pico della</author>
+<title>A Platonick Discourse Upon Love</title>
+<imprint>
+<publisher>The Merrymount Press</publisher>
+<date>1914</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+</listBibl>
+</div2>
+
+<div2>
+<head>Sufi Mystice</head>
+
+<listBibl>
+
+<biblStruct>
+<monogr>
+<author>Rumi, Maulana Jalal al-Din</author>
+<title>The Festival of Spring</title>
+<imprint>
+<publisher>James MacLehose and Sons</publisher>
+<date>1903</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>Hafez</author>
+<title>Sonnets from Hafez and Other Verses</title>
+<imprint>
+<publisher>Oxford University Press</publisher>
+<date>1921</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>Ibn 'Arabî</author>
+<title>Traité de l'amour</title>
+<editor role="Translator">Maurice Gloton</editor>
+<imprint>
+<publisher>Albin Michel</publisher>
+<date>1986</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+</listBibl>
+</div2>
+
 </div1>
 </body>
 </text>
