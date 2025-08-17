@@ -25,6 +25,40 @@
 
 <biblStruct>
 <monogr>
+<author>Plato</author>
+<title>Symposium</title>
+<editor role="Translator">Benjamin Jowett</editor>
+<note>Especially Diotima's speech</note>
+<imprint>
+<publisher>Project Gutenberg</publisher>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>Plato</author>
+<title>Phaedrus</title>
+<editor role="Translator">Benjamin Jowett</editor>
+<imprint>
+<publisher>Project Gutenberg</publisher>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>Plato</author>
+<title>Timaeus</title>
+<editor role="Translator">Benjamin Jowett</editor>
+<imprint>
+<publisher>Project Gutenberg</publisher>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<monogr>
 <author>Aristotle</author>
 <title>Politics: A Treatise on Government</title>
 <editor role="Translator">William Ellis</editor>
@@ -37,8 +71,21 @@
 
 <biblStruct>
 <monogr>
+<author>Aristotle</author>
+<title>On the Vital Principle</title>
+<editor role="Translator">Charles Collier</editor>
+<note xml:lang="la">De Anima</note>
+<imprint>
+<publisher>MacMillan and Co.</publisher>
+<date>1855</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<monogr>
 <author>Sappho</author>
-<title>Les poésies de Sapho de Lesbos</title>
+<title xml:lang="fr">Les poésies de Sapho de Lesbos</title>
 <editor role="Translator">Rédarez Saint-Remy, Jules-Henry</editor>
 <imprint>
 <publisher>Hachette</publisher>
@@ -134,7 +181,7 @@
 <biblStruct>
 <monogr>
 <author>Hadewijch</author>
-<title>Werken van Zuster Hadewijch</title>
+<title xml:lang="nl">Werken van Zuster Hadewijch</title>
 <imprint>
 <publisher>C. Annoot-Braeckmann</publisher>
 <date>1875</date>
@@ -194,7 +241,7 @@
 <biblStruct>
 <monogr>
 <author>Ibn 'Arabî</author>
-<title>Traité de l'amour</title>
+<title xml:lang="fr">Traité de l'amour</title>
 <editor role="Translator">Maurice Gloton</editor>
 <imprint>
 <publisher>Albin Michel</publisher>
