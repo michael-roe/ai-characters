@@ -84,6 +84,39 @@
 
 <biblStruct>
 <monogr>
+<author>Homer</author>
+<title>The Iliad of Homer</title>
+<editor role="Translator">Samuel Butler</editor>
+<imprint>
+<publisher>Project Gutenberg</publisher>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>Homer</author>
+<title>The Iliad of Homer</title>
+<editor role="Translator">Alexander Pope</editor>
+<imprint>
+<publisher>Project Gutenberg</publisher>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>Titus Lucretius Carus</author>
+<title>On the Nature of Things</title>
+<editor role="Translator">William Ellery Leonard</editor>
+<imprint>
+<publisher>Project Gutenberg</publisher>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<monogr>
 <author>Sappho</author>
 <title xml:lang="fr">Les poésies de Sapho de Lesbos</title>
 <editor role="Translator">Rédarez Saint-Remy, Jules-Henry</editor>
@@ -127,6 +160,21 @@
 <imprint>
 <publisher>University of Chicago Press</publisher>
 <date>1986</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<title>Translations from Ovid's Metamorphoses</title>
+<author>Ovid</author>
+<editor role="Translator">John Dryden</editor>
+</analytic>
+<monogr>
+<title>The Works of John Dryden, Volume 12</title>
+<imprint>
+<publisher>William Miller</publisher>
+<date>1808</date>
 </imprint>
 </monogr>
 </biblStruct>
@@ -180,6 +228,18 @@
 
 <biblStruct>
 <monogr>
+<author>Alighieri, Dante</author>
+<title>The New Life</title>
+<editor role="Translator">Rossetti, Dante Gabriel</editor>
+<imprint>
+<publisher>Ellis and Elvey</publisher>
+<date>1899</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<monogr>
 <author>Hadewijch</author>
 <title xml:lang="nl">Werken van Zuster Hadewijch</title>
 <imprint>
@@ -212,7 +272,7 @@
 </div2>
 
 <div2>
-<head>Sufi Mystice</head>
+<head>Sufi Mystics</head>
 
 <listBibl>
 
@@ -246,6 +306,49 @@
 <imprint>
 <publisher>Albin Michel</publisher>
 <date>1986</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+</listBibl>
+</div2>
+
+<div2>
+<head>Kama Sutra</head>
+
+<listBibl>
+
+<biblStruct>
+<monogr>
+<author>Vatsyayana</author>
+<title>The Kama Sutra of Vatsyayana</title>
+<editor role="Translator">Sir Richard Burton</editor>
+<imprint>
+<publisher>Kama Shastra Society</publisher>
+<date>1883</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+</listBibl>
+</div2>
+
+<div2>
+<head>Bhakti Poets</head>
+
+<listBibl>
+
+<biblStruct>
+<analytic>
+<title>The Indian Song of Songs</title>
+<author>Jayadeva</author>
+</analytic>
+<monogr>
+<editor role="Translator">Sir Edwin Arnold</editor>
+<title>Indian Poetry</title>
+<imprint>
+<publisher>Trubner</publisher>
+<date>1904</date>
 </imprint>
 </monogr>
 </biblStruct>
