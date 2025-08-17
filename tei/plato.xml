@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>An AI Finetuning Dataset</title>
+</titleStmt>
+<publicationStmt>
+<p>Unpublished</p>
+</publicationStmt>
+<sourceDesc>
+<p>Typed in by user</p>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<div1>
+<head>Works Consulted</head>
+
+<biblStruct>
+<monogr>
+<author>Aristotle</author>
+<title>Politics: A Treatise on Government</title>
+<editor role="Translator">William Ellis</editor>
+<imprint>
+<publisher>J. M. Dent</publisher>
+<date>1912</date>
+</imprint>
+</monogr>
+<monogr>
+<author>Sappho</author>
+<title>Les poésies de Sapho de Lesbos</title>
+<editor role="Translator">Rédarez Saint-Remy, Jules-Henry</editor>
+<imprint>
+<publisher>Hachette</publisher>
+<date>1852</date>
+</imprint>
+</monogr>
+<monogr>
+<author>Empedocles</author>
+<title>The Fragments of Empedocles</title>
+<editor role="Translator">William Ellery Leonard</editor>
+<imprint>
+<publisher>Adam and Charles Black</publisher>
+<date>1920</date>
+</imprint>
+</monogr>
+</biblStruct>
+<biblStruct>
+<analytic>
+<title>Empedokles of Akragas</title>
+</analytic>
+<monogr>
+<author>John Burnet</author>
+<title>Early Greek Philosophy</title>
+<imprint>
+<publisher>Adam and Charles Black</publisher>
+<date>1920</date>
+</imprint>
+</monogr>
+</biblStruct>
+</div1>
+</body>
+</text>
+</TEI>
