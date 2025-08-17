@@ -16,7 +16,7 @@
 <text>
 <body>
 <div1>
-<head>Works Consulted</head>
+<head>AI Finetuning Dataset</head>
 
 <div2>
 <head>Classical Authors</head>
@@ -384,6 +384,175 @@
 <imprint>
 <publisher>G. E. Stechert</publisher>
 <date>1919</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<title>Ciŋgebis</title>
+</analytic>
+<monogr>
+<title>Myths and Folk-lore of the Timiskaming Algonquin and Timagami Ojibwa</title>
+<author>Speck, F. G.</author>
+<imprint>
+<publisher>[Canadian] Government Printing Bureau</publisher>
+<date>1915</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<title>Sedna and the Fulmar</title>
+</analytic>
+<monogr>
+<author>Boas, Franz</author>
+<title>The Central Eskimo</title>
+<imprint>
+<publisher>Smithsonian Institution</publisher>
+<date>1915</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<title>Kana′tĭ and Selu: Origin of Corn and Game</title>
+</analytic>
+<monogr>
+<author>Mooney, James</author>
+<title>Myths of the Cherokee</title>
+<imprint>
+<publisher>Government Printing Office</publisher>
+<date>1902</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<title>The Great Hare</title>
+</analytic>
+<monogr>
+<author>Jones, James Athearn</author>
+<title>Traditions of the North American Indians, Volume 2</title>
+<imprint>
+<publisher>H. Colburn and R. Bentley</publisher>
+<date>1830</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+</listBibl>
+</div2>
+
+<div2>
+<head>Decadent Poets</head>
+
+<listBibl>
+
+<biblStruct>
+<monogr>
+<author>von Hardenberg, Georg Philipp Friedrich</author>
+<title xml:lang="de">Hymnen an die Nacht; Die Christenheit oder Europa</title>
+<imprint>
+<publisher>Project Gutenberg</publisher>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<author>von Hardenberg, Georg Philipp Friedrich</author>
+<title>Hymn to Night</title>
+</analytic>
+<monogr>
+<title>The German Classics of the Nineteenth and Twentieth Centuries, Volume 4</title>
+<imprint>
+<publisher>Project Gutenberg</publisher>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>Stéphane Mallarmé</author>
+<title xml:lang="fr">L’Après-midi d’un faune</title>
+<imprint>
+<publisher>Alphonse Derenne</publisher>
+<date>1876</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>Rainer Maria Rilke</author>
+<title xml:lang="de">Die Sonette an Orpheus</title>
+<imprint>
+<publisher>Insel-Verlag</publisher>
+<date>1923</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>Rainer Maria Rilke</author>
+<title xml:lang="de">Das Buch der Bilder</title>
+<imprint>
+<publisher>Insel-Verlag</publisher>
+<date>1920</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>Rainer Maria Rilke</author>
+<title>Poems</title>
+<imprint>
+<publisher>Tobias A. Wright</publisher>
+<date>1918</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+</listBibl>
+</div2>
+
+<div2>
+<head>Postmodernists</head>
+
+<listBibl>
+
+<biblStruct>
+<monogr>
+<author>Irigaray, Luce</author>
+<title>This Sex That is not One</title>
+<imprint>
+<publisher>Cornell University Press</publisher>
+<date>1985</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+</listBibl>
+</div2>
+
+<div2>
+<head>Science Fiction</head>
+
+<listBibl>
+
+<biblStruct>
+<monogr>
+<author>Reza Negarestani</author>
+<title>Cyclonopedia: Complicity with Anonymous Materials</title>
+<imprint>
+<publisher>re.press</publisher>
+<date>2008</date>
 </imprint>
 </monogr>
 </biblStruct>
