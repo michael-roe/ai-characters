@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Biographies of Alchemists</title>
+</titleStmt>
+<publicationStmt>
+<p>Unpublished</p>
+</publicationStmt>
+<sourceDesc>
+<p>Typed in by user</p>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<div1>
+<head>Works Consulted</head>
+<bibl>
+<title>Alchemy: Ancient and Modern</title>
+<author>H. Stanley Redgrove</author>
+</bibl>
+</div1>
+<div1>
+<head>Biographies</head>
+<listPerson>
+<person>
+<p><name>Abū Mūsā Jābir ibn Ḥayyān</name> is a legendary figure in early Islamic science, traditionally believed to be an 8th-9th century alchemist who died circa 806-816. He is the purported author of an extensive Arabic corpus primarily focused on alchemy/chemistry, Shi'ite religious philosophy, and magic, but originally covering a vast range of topics like cosmology, medicine, and logic. His works, likely composed between 850-950, contain foundational contributions including the oldest known systematic classification of chemical substances, early instructions for synthesizing inorganic compounds like sal ammoniac from organic materials, and the influential sulfur-mercury theory of metals. The corpus also presents key Shi'ite doctrines and a unique quantitative philosophy ("science of the balance").</p>
+</person>
+<person>
+<p><name>Abū Naṣr Muḥammad ibn Muḥammad al-Fārābī</name> (c. 872 – 950/951 CE), known in Latin as <name>Alpharabius</name>, was a Persian polymath and one of the most significant Islamic philosophers of the medieval period, often called the "Second Master" after Aristotle. Born in Farab/Farayb, he traveled widely, studying and working in Baghdad (under scholars like Abū Bishr Mattā ibn Yūnus), Harran, Syria (Damascus), and possibly Egypt. Al-Fārābī authored groundbreaking treatises across numerous fields, including philosophy (particularly logic, political philosophy - where he is considered the "Founder of Islamic Political Philosophy", metaphysics, and ethics), music (his Kitāb al-mūsīqā al-kabīr), mathematics, physics, cosmology, logic, language, psychology, and medicine. A work on alchemy, Fī wujūb ṣināʿat al-kīmiyā (The Necessity of the Art of the Elixir), is attributed to him, though this attribution is disputed. He died in Damascus in 950 or early 951 CE.</p>
+</person>
+<person>
+<p><name>Abū Bakr al-Rāzī</name> (c. 864-925 CE), known in the West as <name>Rhazes</name>, was a preeminent Persian physician, alchemist, and philosopher of the Islamic Golden Age. Serving as chief physician in hospitals in Baghdad and Ray, he was celebrated as an exceptionally skilled and compassionate doctor dedicated to treating all patients, rich or poor. Al-Rāzī made significant contributions to medicine, pioneering the clinical distinction between smallpox and measles in his influential treatise on the subject. He was also a prolific alchemist, deeply engaged in the theory and practice of transmutation; he authored numerous alchemical works like al-Asrār and Sirr al-Asrār.</p>
+</person>
+<person>
+<p><name>Ibn Sina</name> (<name>Avicenna</name>) (980-1037 AD) was a preeminent Persian polymath, mastering the Quran by age ten and excelling in philosophy, science, and medicine under tutor Natili in Bukhara. Driven by passion, he rapidly became a renowned physician, serving Prince Nuh ibn Mansur by age eighteen and composing significant early works. Though spending his life east of the Oxus and writing in Arabic, he endured political turmoil and imprisonments while serving various rulers, including as a vizier in Hamadan. Remarkably, amidst these tumultuous travels and personal excesses, he maintained prolific scholarly output, famously writing fifty pages daily. His enduring legacy includes monumental works like The Canon of Medicine and The Book of Healing, though his tomb's epitaph noted the irony that his philosophy didn't teach him to live well nor his medicine to live long.</p>
+</person>
+</listPerson>
+</div1>
+</body>
+</text>
+</TEI>
