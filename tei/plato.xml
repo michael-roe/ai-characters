@@ -18,6 +18,8 @@
 <div1>
 <head>Works Consulted</head>
 
+<listBibl>
+
 <biblStruct>
 <monogr>
 <author>Aristotle</author>
@@ -28,6 +30,9 @@
 <date>1912</date>
 </imprint>
 </monogr>
+</biblStruct>
+
+<biblStruct>
 <monogr>
 <author>Sappho</author>
 <title>Les poésies de Sapho de Lesbos</title>
@@ -37,6 +42,9 @@
 <date>1852</date>
 </imprint>
 </monogr>
+</biblStruct>
+
+<biblStruct>
 <monogr>
 <author>Empedocles</author>
 <title>The Fragments of Empedocles</title>
@@ -46,10 +54,8 @@
 <date>1920</date>
 </imprint>
 </monogr>
+</biblStruct>
 
-
-
-<relatedItem>
 <biblStruct>
 <analytic>
 <title>Empedokles of Akragas</title>
@@ -63,9 +69,19 @@
 </imprint>
 </monogr>
 </biblStruct>
-</relatedItem>
 
+<biblStruct>
+<monogr>
+<editor>Hans Dieter Betz</editor>
+<title>The Greek Magical Papyri in Translation</title>
+<imprint>
+<publisher>University of Chicago Press</publisher>
+<date>1986</date>
+</imprint>
+</monogr>
 </biblStruct>
+
+</listBibl>
 </div1>
 </body>
 </text>
