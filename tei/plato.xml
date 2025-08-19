@@ -26,9 +26,21 @@
 <biblStruct>
 <monogr>
 <author>Plato</author>
+<title>Timaeus</title>
+<editor role="Translator">Benjamin Jowett</editor>
+<note place="inline">Plato posits that plants possess a primitive form of perception (<foreign xml:lang="grc">αἴσθησις</foreign>, <foreign xml:lang="grc-Latn">aísthēsis</foreign>) linked to pleasure and pain, and experience appetitive desires (<foreign xml:lang="grc">ἐπιθυμία</foreign>, <foreign xml:lang="grc-Latn">epithymía</foreign>) for nourishment.</note>
+<imprint>
+<publisher>Project Gutenberg</publisher>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>Plato</author>
 <title>Symposium</title>
 <editor role="Translator">Benjamin Jowett</editor>
-<note>Especially Diotima's speech</note>
+<note place="inline">Especially Diotima's speech</note>
 <imprint>
 <publisher>Project Gutenberg</publisher>
 </imprint>
@@ -48,20 +60,9 @@
 
 <biblStruct>
 <monogr>
-<author>Plato</author>
-<title>Timaeus</title>
-<editor role="Translator">Benjamin Jowett</editor>
-<imprint>
-<publisher>Project Gutenberg</publisher>
-</imprint>
-</monogr>
-</biblStruct>
-
-<biblStruct>
-<monogr>
 <author>Aristotle</author>
 <title>Politics: A Treatise on Government</title>
-<editor role="Translator">William Ellis</editor>
+<editor role="translator">William Ellis</editor>
 <imprint>
 <publisher>J. M. Dent</publisher>
 <date>1912</date>
@@ -73,8 +74,8 @@
 <monogr>
 <author>Aristotle</author>
 <title>On the Vital Principle</title>
-<editor role="Translator">Charles Collier</editor>
-<note xml:lang="la">De Anima</note>
+<title type="alt" xml:lang="la">De Anima</title>
+<editor role="translator">Charles Collier</editor>
 <imprint>
 <publisher>MacMillan and Co.</publisher>
 <date>1855</date>
@@ -86,7 +87,7 @@
 <monogr>
 <author>Homer</author>
 <title>The Iliad of Homer</title>
-<editor role="Translator">Samuel Butler</editor>
+<editor role="translator">Samuel Butler</editor>
 <imprint>
 <publisher>Project Gutenberg</publisher>
 </imprint>
@@ -97,7 +98,7 @@
 <monogr>
 <author>Homer</author>
 <title>The Iliad of Homer</title>
-<editor role="Translator">Alexander Pope</editor>
+<editor role="translator">Alexander Pope</editor>
 <imprint>
 <publisher>Project Gutenberg</publisher>
 </imprint>
@@ -119,7 +120,7 @@
 <monogr>
 <author>Sappho</author>
 <title xml:lang="fr">Les poésies de Sapho de Lesbos</title>
-<editor role="Translator">Rédarez Saint-Remy, Jules-Henry</editor>
+<editor role="translator">Rédarez Saint-Remy, Jules-Henry</editor>
 <imprint>
 <publisher>Hachette</publisher>
 <date>1852</date>
@@ -131,7 +132,7 @@
 <monogr>
 <author>Empedocles</author>
 <title>The Fragments of Empedocles</title>
-<editor role="Translator">William Ellery Leonard</editor>
+<editor role="translator">William Ellery Leonard</editor>
 <imprint>
 <publisher>Adam and Charles Black</publisher>
 <date>1920</date>
@@ -168,11 +169,12 @@
 <analytic>
 <title>Translations from Ovid's Metamorphoses</title>
 <author>Ovid</author>
-<editor role="Translator">John Dryden</editor>
+<editor role="translator">John Dryden</editor>
 </analytic>
 <monogr>
-<title>The Works of John Dryden, Volume 12</title>
+<title>The Works of John Dryden</title>
 <imprint>
+<biblScope unit="volume">12</biblScope>
 <publisher>William Miller</publisher>
 <date>1808</date>
 </imprint>
@@ -185,22 +187,21 @@
 </analytic>
 <monogr>
 <author>Plotinus</author>
-<title>Volume 4</title>
+<title>Plotinus Complete Works</title>
+<editor role="translator">Kenneth Sylvan Guthrie</editor>
 <imprint>
+<biblScope unit="volume">4</biblScope>
 <publisher>George Bell and Sons</publisher>
 <date>1918</date>
 </imprint>
 </monogr>
-<series>
-<title>Plotinus Complete Works</title>
-</series>
 </biblStruct>
 
 <biblStruct>
 <monogr>
 <author>Proclus</author>
 <title>The commentaries of Proclus on the Timaeus of Plato</title>
-<editor role="Translator">Thomas Taylor</editor>
+<editor role="translator">Thomas Taylor</editor>
 <imprint>
 <publisher>Thomas Taylor</publisher>
 <date>1820</date>
@@ -230,7 +231,7 @@
 <monogr>
 <author>Alighieri, Dante</author>
 <title>The New Life</title>
-<editor role="Translator">Rossetti, Dante Gabriel</editor>
+<editor role="translator">Rossetti, Dante Gabriel</editor>
 <imprint>
 <publisher>Ellis and Elvey</publisher>
 <date>1899</date>
@@ -302,7 +303,7 @@
 <monogr>
 <author>Ibn 'Arabî</author>
 <title xml:lang="fr">Traité de l'amour</title>
-<editor role="Translator">Maurice Gloton</editor>
+<editor role="translator">Maurice Gloton</editor>
 <imprint>
 <publisher>Albin Michel</publisher>
 <date>1986</date>
@@ -322,7 +323,7 @@
 <monogr>
 <author>Vatsyayana</author>
 <title>The Kama Sutra of Vatsyayana</title>
-<editor role="Translator">Sir Richard Burton</editor>
+<editor role="translator">Sir Richard Burton</editor>
 <imprint>
 <publisher>Kama Shastra Society</publisher>
 <date>1883</date>
@@ -344,7 +345,7 @@
 <author>Jayadeva</author>
 </analytic>
 <monogr>
-<editor role="Translator">Sir Edwin Arnold</editor>
+<editor role="translator">Sir Edwin Arnold</editor>
 <title>Indian Poetry</title>
 <imprint>
 <publisher>Trubner</publisher>
@@ -357,7 +358,7 @@
 <monogr>
 <author>Mirabai</author>
 <title>Songs of Mirabai</title>
-<editor role="Translator">R. C. Tandan</editor>
+<editor role="translator">R. C. Tandan</editor>
 <imprint>
 <publisher>Allahabad Law Journal Press</publisher>
 <date>1934</date>
@@ -376,12 +377,14 @@
 <biblStruct>
 <analytic>
 <title xml:lang="oj">Majikikwewisag Zhingibis Gaye</title>
+<title type="alt">The Foolish Maidens and the Diver</title>
+<title type="alt">The Star Husband</title>
 </analytic>
 <monogr>
 <author>William Jones</author>
-<title>Ojibwa Texts, Volume 2</title>
-<note>Also known as The Star Husband</note>
+<title>Ojibwa Texts</title>
 <imprint>
+<biblScope unit="volume">2</biblScope>
 <publisher>G. E. Stechert</publisher>
 <date>1919</date>
 </imprint>
@@ -436,8 +439,9 @@
 </analytic>
 <monogr>
 <author>Jones, James Athearn</author>
-<title>Traditions of the North American Indians, Volume 2</title>
+<title>Traditions of the North American Indians</title>
 <imprint>
+<biblScope unit="volume">2</biblScope>
 <publisher>H. Colburn and R. Bentley</publisher>
 <date>1830</date>
 </imprint>
