@@ -110,6 +110,7 @@
 <author>Titus Lucretius Carus</author>
 <title>On the Nature of Things</title>
 <editor role="Translator">William Ellery Leonard</editor>
+<note place="inline">Materialist Eros</note>
 <imprint>
 <publisher>Project Gutenberg</publisher>
 </imprint>
@@ -220,6 +221,7 @@
 <monogr>
 <author>Bernard of Clairvaux</author>
 <title>Cantica Canticorum: Eighty-six Sermons on the Song of Solomon</title>
+<note place="inline">Desire sublimated into spiritual marriage and divine intimacy</note>
 <imprint>
 <publisher>Elliot Stock</publisher>
 <date>1895</date>
@@ -232,6 +234,7 @@
 <author>Alighieri, Dante</author>
 <title>The New Life</title>
 <editor role="translator">Rossetti, Dante Gabriel</editor>
+<note place="inline">Courtly Love as Path to Divine Revelation</note>
 <imprint>
 <publisher>Ellis and Elvey</publisher>
 <date>1899</date>
@@ -250,6 +253,18 @@
 </monogr>
 </biblStruct>
 
+<biblStruct>
+<monogr>
+<author>Alain of Lille</author>
+<title>The Complaint of Nature</title>
+<editor role="translator">Douglas M. Moffat</editor>
+<imprint>
+<publisher>Yale University Press</publisher>
+<date>1908</date>
+</imprint>
+</monogr>
+</biblStruct>
+
 </listBibl>
 </div2>
 
@@ -262,6 +277,7 @@
 <monogr>
 <author>Mirandola, Giovanni Pico della</author>
 <title>A Platonick Discourse Upon Love</title>
+<note place="inline">Human desire as divine spark seeking re-integration with the One</note>
 <imprint>
 <publisher>The Merrymount Press</publisher>
 <date>1914</date>
@@ -554,6 +570,7 @@
 <monogr>
 <author>Reza Negarestani</author>
 <title>Cyclonopedia: Complicity with Anonymous Materials</title>
+<note place="inline">Cosmic horror desire: Earth's inhuman libidinal flows</note>
 <imprint>
 <publisher>re.press</publisher>
 <date>2008</date>
