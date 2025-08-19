@@ -63,6 +63,7 @@
 <author>Aristotle</author>
 <title>Politics: A Treatise on Government</title>
 <editor role="translator">William Ellis</editor>
+<note place="inline">Aristotle uses the mythical Statues of Daedalus and the Tripods of Hephaestus to argue that tools (and slaves) ideally act on command, while positing that fully self-directed tools would make slavery obsolete.</note>
 <imprint>
 <publisher>J. M. Dent</publisher>
 <date>1912</date>
@@ -88,6 +89,7 @@
 <author>Homer</author>
 <title>The Iliad of Homer</title>
 <editor role="translator">Samuel Butler</editor>
+<note place="inline">In Book 18, the Tripods of Hephaestus are magnificent, self-propelled wheeled vessels crafted from gold by the god, designed to move autonomously into the divine council and then return.</note>
 <imprint>
 <publisher>Project Gutenberg</publisher>
 </imprint>
@@ -206,6 +208,21 @@
 <imprint>
 <publisher>Thomas Taylor</publisher>
 <date>1820</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<analytic>
+<title>On the Cave of the Nymphs in the Thirteenth Book of the Odyssey</title>
+</analytic>
+<monogr>
+<author>Porphyry</author>
+<title>Select Works of Porphry</title>
+<editor role="translator">Thomas Taylor</editor>
+<imprint>
+<publisher>Thomas Rodd</publisher>
+<date>1823</date>
 </imprint>
 </monogr>
 </biblStruct>
