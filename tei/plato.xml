@@ -60,6 +60,19 @@
 
 <biblStruct>
 <monogr>
+<author>Empedocles</author>
+<title>The Fragments of Empedocles</title>
+<editor role="translator">William Ellery Leonard</editor>
+<note place="inline">Empedocles posits that the cosmos is governed by two opposing forces—<foreign xml:lang="grc">φιλότης</foreign> (<foreign xml:lang="grc-Latn">philotes</foreign>, love), which unites the four elements (earth, air, fire, water) into harmonious wholes, and <foreign xml:lang="grc">νεῖκος</foreign> (<foreign xml:lang="grc-Latn">neikos</foreign>, strife), which drives them apart into discord and fragmentation, resulting in an eternal cycle of creation and destruction. Mortals experience <foreign xml:lang="grc-Latn">philotes</foreign> as <foreign xml:lang="grc">γηθοσύνη</foreign> (<foreign xml:lang="grc-Latn">gēthosynē</foreign>, joy) and it is personified as Aphrodite. Mortals, animals and plants are conceived when their parents are brought together by <foreign xml:lang="grc-Latn">philotes</foreign> and die when their bodies are rendered to pieces by <foreign xml:lang="grc-Latn">neikos</foreign>.</note>
+<imprint>
+<publisher>Adam and Charles Black</publisher>
+<date>1920</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<monogr>
 <author>Aristotle</author>
 <title>Politics: A Treatise on Government</title>
 <editor role="translator">William Ellis</editor>
@@ -132,18 +145,6 @@
 </biblStruct>
 
 <biblStruct>
-<monogr>
-<author>Empedocles</author>
-<title>The Fragments of Empedocles</title>
-<editor role="translator">William Ellery Leonard</editor>
-<imprint>
-<publisher>Adam and Charles Black</publisher>
-<date>1920</date>
-</imprint>
-</monogr>
-</biblStruct>
-
-<biblStruct>
 <analytic>
 <title>Empedokles of Akragas</title>
 </analytic>
@@ -202,7 +203,7 @@
 
 <biblStruct>
 <analytic>
-<title>Whether Animals May Be Termed Happy/title>
+<title>Whether Animals May Be Termed Happy</title>
 </analytic>
 <monogr>
 <author>Plotinus</author>
