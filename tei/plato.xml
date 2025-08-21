@@ -201,6 +201,22 @@
 </biblStruct>
 
 <biblStruct>
+<analytic>
+<title>Whether Animals May Be Termed Happy/title>
+</analytic>
+<monogr>
+<author>Plotinus</author>
+<title>Plotinus Complete Works</title>
+<editor role="translator">Kenneth Sylvan Guthrie</editor>
+<imprint>
+<biblScope unit="volume">4</biblScope>
+<publisher>George Bell and Sons</publisher>
+<date>1918</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
 <monogr>
 <author>Proclus</author>
 <title>The commentaries of Proclus on the Timaeus of Plato</title>
@@ -294,6 +310,7 @@
 <monogr>
 <author>Mirandola, Giovanni Pico della</author>
 <title>A Platonick Discourse Upon Love</title>
+<editor role="translator">Sir Thomas Stanley</editor>
 <note place="inline">Human desire as divine spark seeking re-integration with the One</note>
 <imprint>
 <publisher>The Merrymount Press</publisher>
@@ -348,7 +365,7 @@
 </div2>
 
 <div2>
-<head>Kama Sutra</head>
+<head>Eastern Philosophy</head>
 
 <listBibl>
 
@@ -375,6 +392,7 @@
 <biblStruct>
 <analytic>
 <title>The Indian Song of Songs</title>
+<title type="alt">Gita Govinda</title>
 <author>Jayadeva</author>
 </analytic>
 <monogr>
