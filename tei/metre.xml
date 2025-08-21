@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Test of met attribute</title>
+</titleStmt>
+<publicationStmt>
+<p>Unpublished</p>
+</publicationStmt>
+<sourceDesc>
+<p>Typed in by user</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<metDecl type="met">
+<metSym value="&#x2013;">long syllable</metSym>
+<metSym value="⏑">short syllable</metSym>
+<metSym value="⏓">syllable can be short or long</metSym>
+<metSym value="|">foot boundary</metSym>
+</metDecl>
+</encodingDesc>
+</teiHeader>
+<text>
+<body>
+<head>Test of Poetic Metre</head>
+
+<p>
+This document used the met attribute, which is part of the verse module, so
+it will not validate using the drama profile.
+</p>
+
+<lg xml:lang="sa">
+<l met="|––––|⏑–––|">dharma-kṣetre kuru-kṣetre</l>
+<l met="|⏑⏑––|⏑–⏑–|">samavetā yuyutsavaḥ</l>
+<l met="|–⏑––|⏑––⏑|">māmakāḥ pāṇḍavāś caiva</l>
+<l met="|⏑⏑–⏑|⏑–⏑⏑|">kim akurvata sañjaya</l>
+</lg>
+
+</body>
+</text>
+</TEI>
