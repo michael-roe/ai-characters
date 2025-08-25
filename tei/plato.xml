@@ -18,6 +18,9 @@
 <div1>
 <head>AI Finetuning Dataset</head>
 
+<p>The texts that have been selected give a range of perspectives on desire, taken from different cultures and historical periods. There are also a variety of translations, including free translations (e.g. <bibl><editor role="translator">Alexander Pope</editor>'s <title>Iliad</title></bibl>, <bibl><editor role="translator">William Ellery Leonard</editor>'s <author>Empedocles</author></bibl>), more literal translations, and parallel text (e.g. <bibl><editor role="translator">John Burnet</editor>'s <author>Empedocles</author></bibl>).
+</p>
+
 <div2>
 <head>Classical Authors</head>
 
@@ -610,6 +613,31 @@
 <imprint>
 <publisher>re.press</publisher>
 <date>2008</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<title>Blade Runner</title>
+<author>Hampton Fancher</author>
+<author>David Peoples</author>
+<note>Screenplay</note>
+<imprint>
+<publisher>Daily Script</publisher>
+<date>1981</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<title>Dark Star: A Science Fiction Adventure</title>
+<author>John Carpenter</author>
+<author>Dan O'Bannon</author>
+<note>Screenplay</note>
+<imprint>
+<publisher>Daily Script</publisher>
 </imprint>
 </monogr>
 </biblStruct>
