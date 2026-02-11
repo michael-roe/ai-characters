@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Books Published in 1930</title>
+</titleStmt>
+<publicationStmt>
+<p>Unpublished</p>
+</publicationStmt>
+<sourceDesc>
+<p>Typed in by user</p>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<div1>
+<head>Books Published in 1930</head>
+
+<p>
+It’s January 2026, and the US copyright on works published in 1930 has expired. 
+Project Gutenberg has just released, or is actively working on, their own editions of the list of books given below.
+</p>
+
+<p>
+Can you think of any famous books published in 1930 (in the US or elsewhere, in English or other languages)? Include works where the first book publication is 1930, even if it was in a serial earlier, and works where the first translation is 1930 even if the original work was earlier.
+</p>
+
+<div2>
+<head>Crime Fiction</head>
+
+<listBibl>
+
+<biblStruct>
+<monogr>
+<author>Carr, John Dickson</author>
+<title>It Walks By Night</title>
+<imprint>
+<publisher>Project Gutenberg</publisher>
+<date>1930</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>Christie, Agatha</author>
+<title>Murder at the Vicarage</title>
+<imprint>
+<publisher>Agatha Christie Limited</publisher>
+<date>1930</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>Christie, Agatha</author>
+<title>The Mysterious Mr. Quin</title>
+<imprint>
+<publisher>Dodd, Mead and Company</publisher>
+<date>1930</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>Christie, Agatha</author>
+<title>Giant's Bread</title>
+<imprint>
+<publisher>Doubleday, Doran and Company</publisher>
+<date>1930</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>Hammett, Dashiell</author>
+<title>The Maltese Falcon</title>
+<imprint>
+<publisher>Alfred A. Knopf</publisher>
+<date>1930</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>Keene, Carolyn</author>
+<title>The secret of the old clock</title>
+<imprint>
+<publisher>Project Gutenberg</publisher>
+<date>1930</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>Keene, Carolyn</author>
+<title>The mystery at Lilac Inn</title>
+<imprint>
+<publisher>Project Gutenberg</publisher>
+<date>1930</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>Keene, Carolyn</author>
+<title>The Hidden Staircase</title>
+<imprint>
+<publisher>Project Gutenberg</publisher>
+<date>1930</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>Sayers, Dorothy L.</author>
+<title>Strong Poison</title>
+<imprint>
+<publisher>Project Gutenberg</publisher>
+<date>1930</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>Wallace, Edgar</author>
+<title>The Clue of the Silver Key</title>
+<imprint>
+<publisher>Project Gutenberg</publisher>
+<date>1930</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+</listBibl>
+
+</div2>
+
+<div2>
+<head>Science Fiction</head>
+
+<listBibl>
+
+<biblStruct>
+<monogr>
+<author>Stapledon, Olaf</author>
+<title>ast and First Men: A Story of the Near and Far Future</title>
+<imprint>
+<publisher>Project Gutenberg</publisher>
+<date>1930</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+</listBibl>
+
+</div2>
+
+</div1>
+</body>
+</text>
+</TEI>
