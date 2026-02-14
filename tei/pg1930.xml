@@ -89,7 +89,7 @@ Can you think of any famous books published in 1930 (in the US or elsewhere, in 
 
 <biblStruct>
 <monogr>
-<author>Keene, Carolyn</author>
+<author><persName type="pseudo"><surname>Keene</surname><forename>Carolyn</forename></persName></author>
 <title>The secret of the old clock</title>
 <imprint>
 <publisher>Grosset and Dunlap</publisher>
@@ -100,10 +100,10 @@ Can you think of any famous books published in 1930 (in the US or elsewhere, in 
 
 <biblStruct>
 <monogr>
-<author>Keene, Carolyn</author>
+<author><persName type="pseudo"><surname>Keene</surname><forename>Carolyn</forename></persName></author>
 <title>The mystery at Lilac Inn</title>
 <imprint>
-<publisher>Project Gutenberg</publisher>
+<publisher>Grosset and Dunlap</publisher>
 <date>1930</date>
 </imprint>
 </monogr>
@@ -111,7 +111,7 @@ Can you think of any famous books published in 1930 (in the US or elsewhere, in 
 
 <biblStruct>
 <monogr>
-<author>Keene, Carolyn</author>
+<author><persName type="pseudo"><surname>Keene</surname><forename>Carolyn</forename></persName></author>
 <title>The Hidden Staircase</title>
 <imprint>
 <publisher>Project Gutenberg</publisher>
@@ -154,7 +154,7 @@ Can you think of any famous books published in 1930 (in the US or elsewhere, in 
 <biblStruct>
 <monogr>
 <author>Stapledon, Olaf</author>
-<title>ast and First Men: A Story of the Near and Far Future</title>
+<title>Last and First Men: A Story of the Near and Far Future</title>
 <imprint>
 <publisher>Methuen</publisher>
 <date>1930</date>
@@ -163,6 +163,73 @@ Can you think of any famous books published in 1930 (in the US or elsewhere, in 
 </biblStruct>
 
 </listBibl>
+
+</div2>
+
+<div2>
+<head>Children's Books</head>
+
+<listBibl>
+
+<biblStruct>
+<monogr>
+<author>Coatsworth, Elizabeth</author>
+<title>The Cat Who Went to Heaven</title>
+<imprint>
+<publisher>The Macmillan Company</publisher>
+<date>1930</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+<biblStruct>
+<monogr>
+<author>Young, E.H.</author>
+<title>Miss Mole</title>
+<imprint>
+<publisher>Jonathan Cape</publisher>
+<date>1930</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+</listBibl>
+
+</div2>
+
+<div2>
+<head>Fiction</head>
+
+<listBibl>
+
+<biblStruct>
+<monogr>
+<author>Dos Passos, John</author>
+<title>The 42nd Parallel</title>
+<imprint>
+<publisher>-</publisher>
+<date>1930</date>
+</imprint>
+</monogr>
+</biblStruct>
+
+</listBibl>
+
+<p>
+Faulkner, William. As I Lay Dying.
+</p>
+
+<p>
+Hughes, Langston. Not Without Laughter.
+</p>
+
+<p>
+Lawrence, D.H. The Virgin and the Gipsy.
+</p>
+
+<p>
+Waugh, Evelyn. Vile Bodies.
+</p>
 
 </div2>
 
@@ -209,18 +276,13 @@ Can you think of any famous books published in 1930 (in the US or elsewhere, in 
 <author>Empson, William</author>
 <title>Seven Types of Ambiguity</title>
 <imprint>
-<publisher>Project Gutenberg</publisher>
+<publisher>Chatto and Windus</publisher>
 <date>1930</date>
 </imprint>
 </monogr>
 </biblStruct>
 
 </listBibl>
-
-
-<p>
-Auden, W.H. Poems.
-</p>
 
 </div2>
 
@@ -265,7 +327,8 @@ Auden, W.H. Poems.
 <author>Durant, Will</author>
 <title>The case for India</title>
 <imprint>
-<publisher>Project Gutenberg</publisher>
+<pubPlace>New York</pubPlace>
+<publisher>Simon and Schuster</publisher>
 <date>1930</date>
 </imprint>
 </monogr>
@@ -275,8 +338,10 @@ Auden, W.H. Poems.
 <monogr>
 <author>Freud, Sigmund</author>
 <title>Civilization and its discontents</title>
+<editor role="translator">Joan Riviere</editor>
 <imprint>
-<publisher>Project Gutenberg</publisher>
+<pubPlace>New York</pubPlace>
+<publisher>Jonathan Cape and Harrison Smith</publisher>
 <date>1930</date>
 </imprint>
 </monogr>
@@ -309,7 +374,8 @@ Auden, W.H. Poems.
 <author>Russell, Bertrand</author>
 <title>The Conquest of Happiness</title>
 <imprint>
-<publisher>Project Gutenberg</publisher>
+<pubPlace>London</pubPlace>
+<publisher>George Allen and Unwin Ltd</publisher>
 <date>1930</date>
 </imprint>
 </monogr>
